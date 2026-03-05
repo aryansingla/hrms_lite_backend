@@ -1,1 +1,5 @@
-django>=5.0,<6.0\ndjangorestframework\ndjongo\npymongo\npython-dotenv
+django>=5.0,<6.0
+djangorestframework
+djongo
+pymongo
+python-dotenv
